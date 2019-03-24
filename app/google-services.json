@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45430251392",
+    "firebase_url": "https://deliv-308a0.firebaseio.com",
+    "project_id": "deliv-308a0",
+    "storage_bucket": "deliv-308a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45430251392:android:841d09db8313a4e5",
+        "android_client_info": {
+          "package_name": "com.exemple.android.deliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45430251392-jpfnm0gpj2omud61rkp3no3gsk5s82qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exemple.android.deliv",
+            "certificate_hash": "9e5a886d3f76a1d0eb6e9909814ff60b38f0ff53"
+          }
+        },
+        {
+          "client_id": "45430251392-lvin3pjpf5erhn0v9akeakacnu32r1ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJqabd9wDHPclpHIYGdYUHU8SO-HZbvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45430251392-lvin3pjpf5erhn0v9akeakacnu32r1ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
